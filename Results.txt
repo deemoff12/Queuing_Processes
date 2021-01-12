@@ -1,0 +1,45 @@
+FCFS:
+
+Sredni czas przetwarzania procesow:		534.06
+Sredni czas oczekiwania procesow:		523.51
+
+LCFS:
+
+Sredni czas przetwarzania procesow:		531.62
+Sredni czas oczekiwania procesow:		521.07
+
+SJF:
+
+Sredni czas przetwarzania procesow:		367.45
+Sredni czas oczekiwania procesow:		356.90
+
+Round Robin FCFS dla kwantu 0.5:
+
+Sredni czas przetwarzania procesow:		711.40
+Sredni czas oczekiwania procesow:		700.85
+
+Round Robin FCFS dla kwantu 1.0:
+
+Sredni czas przetwarzania procesow:		698.45
+Sredni czas oczekiwania procesow:		687.90
+
+Round Robin FCFS dla kwantu 1.5:
+
+Sredni czas przetwarzania procesow:		711.01
+Sredni czas oczekiwania procesow:		700.46
+
+Round Robin LCFS dla kwantu 0.5:
+
+Sredni czas przetwarzania procesow:		711.30
+Sredni czas oczekiwania procesow:		700.75
+
+Round Robin LCFS dla kwantu 1.0:
+
+Sredni czas przetwarzania procesow:		698.24
+Sredni czas oczekiwania procesow:		687.69
+
+Round Robin LCFS dla kwantu 1.5:
+
+Sredni czas przetwarzania procesow:		710.69
+Sredni czas oczekiwania procesow:		700.14
+
